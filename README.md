@@ -1,4 +1,6 @@
-# XAI-IDS: Explainable AI Intrusion Detection System
+> **About this fork:** this fork adds a black-box evasion and adversarial training study on an XGBoost intrusion detector. See [ROBUSTNESS_STUDY.md](ROBUSTNESS_STUDY.md). The rest of this README is the original project's.
+
+> # XAI-IDS: Explainable AI Intrusion Detection System
 
 [![CI](https://github.com/MohammadThabetHassan/xai-ids/actions/workflows/ci.yml/badge.svg)](https://github.com/MohammadThabetHassan/xai-ids/actions/workflows/ci.yml)
 [![Pages](https://github.com/MohammadThabetHassan/xai-ids/actions/workflows/pages.yml/badge.svg)](https://mohammadthabethassan.github.io/xai-ids/)
